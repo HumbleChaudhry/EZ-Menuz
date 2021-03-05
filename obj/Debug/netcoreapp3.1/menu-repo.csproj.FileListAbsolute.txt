@@ -1,0 +1,435 @@
+C:\Users\Shah\source\repos\menu-repo\menu-repo\obj\Debug\netcoreapp3.1\menu-repo.csprojAssemblyReference.cache
+C:\Users\Shah\source\repos\menu-repo\menu-repo\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Shah\source\repos\menu-repo\menu-repo\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Shah\source\repos\menu-repo\menu-repo\obj\Debug\netcoreapp3.1\menu-repo_MarkupCompile.cache
+C:\Users\Shah\source\repos\menu-repo\menu-repo\obj\Debug\netcoreapp3.1\menu-repo_MarkupCompile.lref
+C:\Users\Shah\source\repos\menu-repo\menu-repo\bin\Debug\netcoreapp3.1\menu-repo.exe
+C:\Users\Shah\source\repos\menu-repo\menu-repo\bin\Debug\netcoreapp3.1\menu-repo.deps.json
+C:\Users\Shah\source\repos\menu-repo\menu-repo\bin\Debug\netcoreapp3.1\menu-repo.runtimeconfig.json
+C:\Users\Shah\source\repos\menu-repo\menu-repo\bin\Debug\netcoreapp3.1\menu-repo.runtimeconfig.dev.json
+C:\Users\Shah\source\repos\menu-repo\menu-repo\bin\Debug\netcoreapp3.1\menu-repo.dll
+C:\Users\Shah\source\repos\menu-repo\menu-repo\bin\Debug\netcoreapp3.1\menu-repo.pdb
+C:\Users\Shah\source\repos\menu-repo\menu-repo\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Shah\source\repos\menu-repo\menu-repo\obj\Debug\netcoreapp3.1\menu-repo.g.resources
+C:\Users\Shah\source\repos\menu-repo\menu-repo\obj\Debug\netcoreapp3.1\menu-repo.csproj.CoreCompileInputs.cache
+C:\Users\Shah\source\repos\menu-repo\menu-repo\obj\Debug\netcoreapp3.1\menu-repo.AssemblyInfoInputs.cache
+C:\Users\Shah\source\repos\menu-repo\menu-repo\obj\Debug\netcoreapp3.1\menu-repo.AssemblyInfo.cs
+C:\Users\Shah\source\repos\menu-repo\menu-repo\obj\Debug\netcoreapp3.1\menu-repo.dll
+C:\Users\Shah\source\repos\menu-repo\menu-repo\obj\Debug\netcoreapp3.1\menu-repo.pdb
+C:\Users\Shah\source\repos\menu-repo\menu-repo\obj\Debug\netcoreapp3.1\menu-repo.genruntimeconfig.cache
+C:\Users\Shah\source\repos\menu-repo\menu-repo\obj\Debug\netcoreapp3.1\Tinder1.g.cs
+C:\Users\Shah\source\repos\menu-repo\menu-repo\obj\Debug\netcoreapp3.1\Tinder2.g.cs
+C:\Users\Shah\source\repos\menu-repo\menu-repo\obj\Debug\netcoreapp3.1\TinderStart.g.cs
+C:\Users\Shah\source\repos\menu-repo\menu-repo\obj\Debug\netcoreapp3.1\Tinder1.baml
+C:\Users\Shah\source\repos\menu-repo\menu-repo\obj\Debug\netcoreapp3.1\Tinder2.baml
+C:\Users\Shah\source\repos\menu-repo\menu-repo\obj\Debug\netcoreapp3.1\TinderStart.baml
+C:\Users\Shah\source\repos\menu-repo\menu-repo\obj\Debug\netcoreapp3.1\Tinder3.g.cs
+C:\Users\Shah\source\repos\menu-repo\menu-repo\obj\Debug\netcoreapp3.1\Tinder4.g.cs
+C:\Users\Shah\source\repos\menu-repo\menu-repo\obj\Debug\netcoreapp3.1\Tinder5.g.cs
+C:\Users\Shah\source\repos\menu-repo\menu-repo\obj\Debug\netcoreapp3.1\Tinder3.baml
+C:\Users\Shah\source\repos\menu-repo\menu-repo\obj\Debug\netcoreapp3.1\Tinder4.baml
+C:\Users\Shah\source\repos\menu-repo\menu-repo\obj\Debug\netcoreapp3.1\Tinder5.baml
+C:\Users\angel\source\repos\menu-repo1\bin\Debug\netcoreapp3.1\menu-repo.exe
+C:\Users\angel\source\repos\menu-repo1\bin\Debug\netcoreapp3.1\menu-repo.deps.json
+C:\Users\angel\source\repos\menu-repo1\bin\Debug\netcoreapp3.1\menu-repo.runtimeconfig.json
+C:\Users\angel\source\repos\menu-repo1\bin\Debug\netcoreapp3.1\menu-repo.runtimeconfig.dev.json
+C:\Users\angel\source\repos\menu-repo1\bin\Debug\netcoreapp3.1\menu-repo.dll
+C:\Users\angel\source\repos\menu-repo1\bin\Debug\netcoreapp3.1\menu-repo.pdb
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\menu-repo.csprojAssemblyReference.cache
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\MenuMain.g.cs
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\Recommend.g.cs
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\Tinder1.g.cs
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\Tinder2.g.cs
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\Tinder3.g.cs
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\Tinder4.g.cs
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\Tinder5.g.cs
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\TinderStart.g.cs
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\menu-repo_MarkupCompile.cache
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\menu-repo_MarkupCompile.lref
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\Recommend.baml
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\Tinder1.baml
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\Tinder2.baml
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\Tinder3.baml
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\Tinder4.baml
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\Tinder5.baml
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\TinderStart.baml
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\MenuMain.baml
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\menu-repo.g.resources
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\menu-repo.AssemblyInfoInputs.cache
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\menu-repo.AssemblyInfo.cs
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\menu-repo.dll
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\menu-repo.pdb
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\appetizers.g.cs
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\burgers_sandwiches.g.cs
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\Food_Menu.g.cs
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\greens.g.cs
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\Menu_main.g.cs
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\salads.g.cs
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\sides.g.cs
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\wings.g.cs
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\wraps.g.cs
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\appetizers.baml
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\burgers_sandwiches.baml
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\Food_Menu.baml
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\greens.baml
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\Menu_main.baml
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\salads.baml
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\sides.baml
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\wings.baml
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\wraps.baml
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\beers.g.cs
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\cocktails.g.cs
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\drinks_menu.g.cs
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\juices.g.cs
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\softDrinks.g.cs
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\spirits.g.cs
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\wines.g.cs
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\beers.baml
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\cocktails.baml
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\drinks_menu.baml
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\juices.baml
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\softDrinks.baml
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\spirits.baml
+C:\Users\angel\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\wines.baml
+C:\Users\angel\Downloads\menu-repo1\bin\Debug\netcoreapp3.1\menu-repo.exe
+C:\Users\angel\Downloads\menu-repo1\bin\Debug\netcoreapp3.1\menu-repo.deps.json
+C:\Users\angel\Downloads\menu-repo1\bin\Debug\netcoreapp3.1\menu-repo.runtimeconfig.json
+C:\Users\angel\Downloads\menu-repo1\bin\Debug\netcoreapp3.1\menu-repo.runtimeconfig.dev.json
+C:\Users\angel\Downloads\menu-repo1\bin\Debug\netcoreapp3.1\menu-repo.dll
+C:\Users\angel\Downloads\menu-repo1\bin\Debug\netcoreapp3.1\menu-repo.pdb
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\menu-repo.csprojAssemblyReference.cache
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\appetizers.g.cs
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\beers.g.cs
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\burgers_sandwiches.g.cs
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\cocktails.g.cs
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\drinks_menu.g.cs
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\Food_Menu.g.cs
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\greens.g.cs
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\juices.g.cs
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\Menu_main.g.cs
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\Recommend.g.cs
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\salads.g.cs
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\sides.g.cs
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\softDrinks.g.cs
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\spirits.g.cs
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\Tinder1.g.cs
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\Tinder2.g.cs
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\Tinder3.g.cs
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\Tinder4.g.cs
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\Tinder5.g.cs
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\TinderStart.g.cs
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\wines.g.cs
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\wings.g.cs
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\wraps.g.cs
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\menu-repo_MarkupCompile.cache
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\menu-repo_MarkupCompile.lref
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\appetizers.baml
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\beers.baml
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\burgers_sandwiches.baml
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\cocktails.baml
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\drinks_menu.baml
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\Food_Menu.baml
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\greens.baml
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\juices.baml
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\Menu_main.baml
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\Recommend.baml
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\salads.baml
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\sides.baml
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\softDrinks.baml
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\spirits.baml
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\Tinder1.baml
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\Tinder2.baml
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\Tinder3.baml
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\Tinder4.baml
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\Tinder5.baml
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\TinderStart.baml
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\wines.baml
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\wings.baml
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\wraps.baml
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\menu-repo.g.resources
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\menu-repo.AssemblyInfoInputs.cache
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\menu-repo.AssemblyInfo.cs
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\menu-repo.dll
+C:\Users\angel\Downloads\menu-repo1\obj\Debug\netcoreapp3.1\menu-repo.pdb
+C:\Users\Shah\source\repos\menu-repo1\bin\Debug\netcoreapp3.1\menu-repo.exe
+C:\Users\Shah\source\repos\menu-repo1\bin\Debug\netcoreapp3.1\menu-repo.deps.json
+C:\Users\Shah\source\repos\menu-repo1\bin\Debug\netcoreapp3.1\menu-repo.runtimeconfig.json
+C:\Users\Shah\source\repos\menu-repo1\bin\Debug\netcoreapp3.1\menu-repo.runtimeconfig.dev.json
+C:\Users\Shah\source\repos\menu-repo1\bin\Debug\netcoreapp3.1\menu-repo.dll
+C:\Users\Shah\source\repos\menu-repo1\bin\Debug\netcoreapp3.1\menu-repo.pdb
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\menu-repo.csprojAssemblyReference.cache
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\appetizers.g.cs
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\beers.g.cs
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\burgers_sandwiches.g.cs
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\cocktails.g.cs
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\drinks_menu.g.cs
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\Food_Menu.g.cs
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\greens.g.cs
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\juices.g.cs
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\Menu_main.g.cs
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\Recommend.g.cs
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\salads.g.cs
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\sides.g.cs
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\softDrinks.g.cs
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\spirits.g.cs
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\Tinder1.g.cs
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\Tinder2.g.cs
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\Tinder3.g.cs
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\Tinder4.g.cs
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\Tinder5.g.cs
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\TinderStart.g.cs
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\wines.g.cs
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\wings.g.cs
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\wraps.g.cs
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\menu-repo_MarkupCompile.cache
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\menu-repo_MarkupCompile.lref
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\appetizers.baml
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\beers.baml
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\burgers_sandwiches.baml
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\cocktails.baml
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\drinks_menu.baml
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\Food_Menu.baml
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\greens.baml
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\juices.baml
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\Menu_main.baml
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\Recommend.baml
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\salads.baml
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\sides.baml
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\softDrinks.baml
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\spirits.baml
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\Tinder1.baml
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\Tinder2.baml
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\Tinder3.baml
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\Tinder4.baml
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\Tinder5.baml
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\TinderStart.baml
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\wines.baml
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\wings.baml
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\wraps.baml
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\menu-repo.g.resources
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\menu-repo.csproj.CoreCompileInputs.cache
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\menu-repo.AssemblyInfoInputs.cache
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\menu-repo.AssemblyInfo.cs
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\menu-repo.dll
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\menu-repo.pdb
+C:\Users\Shah\source\repos\menu-repo1\obj\Debug\netcoreapp3.1\menu-repo.genruntimeconfig.cache
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\menu-repo.csprojAssemblyReference.cache
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\appetizers.g.cs
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\beers.g.cs
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\burgers_sandwiches.g.cs
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\cocktails.g.cs
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\drinks_menu.g.cs
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\Food_Menu.g.cs
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\greens.g.cs
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\juices.g.cs
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\Menu_main.g.cs
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\Recommend.g.cs
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\salads.g.cs
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\sides.g.cs
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\softDrinks.g.cs
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\spirits.g.cs
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\Tinder1.g.cs
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\Tinder2.g.cs
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\Tinder3.g.cs
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\Tinder4.g.cs
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\Tinder5.g.cs
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\TinderStart.g.cs
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\wines.g.cs
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\wings.g.cs
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\wraps.g.cs
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\menu-repo_MarkupCompile.cache
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\menu-repo_MarkupCompile.lref
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\appetizers.baml
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\beers.baml
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\burgers_sandwiches.baml
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\cocktails.baml
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\drinks_menu.baml
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\Food_Menu.baml
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\greens.baml
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\juices.baml
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\Menu_main.baml
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\Recommend.baml
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\salads.baml
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\sides.baml
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\softDrinks.baml
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\spirits.baml
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\Tinder1.baml
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\Tinder2.baml
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\Tinder3.baml
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\Tinder4.baml
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\Tinder5.baml
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\TinderStart.baml
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\wines.baml
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\wings.baml
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\wraps.baml
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\menu-repo.g.resources
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\menu-repo.pdb
+C:\Users\thisi\Desktop\Final shit\bin\Debug\netcoreapp3.1\menu-repo.exe
+C:\Users\thisi\Desktop\Final shit\bin\Debug\netcoreapp3.1\menu-repo.deps.json
+C:\Users\thisi\Desktop\Final shit\bin\Debug\netcoreapp3.1\menu-repo.runtimeconfig.json
+C:\Users\thisi\Desktop\Final shit\bin\Debug\netcoreapp3.1\menu-repo.runtimeconfig.dev.json
+C:\Users\thisi\Desktop\Final shit\bin\Debug\netcoreapp3.1\menu-repo.dll
+C:\Users\thisi\Desktop\Final shit\bin\Debug\netcoreapp3.1\menu-repo.pdb
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\menu-repo.AssemblyInfoInputs.cache
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\menu-repo.AssemblyInfo.cs
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\menu-repo.dll
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\Cart.baml
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\Cart.g.cs
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\MiscCustomization.g.cs
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\MiscCustomization.baml
+C:\Users\thisi\Desktop\Final shit\obj\Debug\netcoreapp3.1\CallStaff.g.cs
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\menu-repo.csprojAssemblyReference.cache
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\Cart.baml
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\appetizers.g.cs
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\beers.g.cs
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\burgers_sandwiches.g.cs
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\CallStaff.g.cs
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\Cart.g.cs
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\cocktails.g.cs
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\drinks_menu.g.cs
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\Food_Menu.g.cs
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\greens.g.cs
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\juices.g.cs
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\Menu_main.g.cs
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\MiscCustomization.g.cs
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\Recommend.g.cs
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\salads.g.cs
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\sides.g.cs
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\softDrinks.g.cs
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\spirits.g.cs
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\Tinder1.g.cs
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\Tinder2.g.cs
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\Tinder3.g.cs
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\Tinder4.g.cs
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\Tinder5.g.cs
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\TinderStart.g.cs
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\wines.g.cs
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\wings.g.cs
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\wraps.g.cs
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\menu-repo_MarkupCompile.cache
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\menu-repo_MarkupCompile.lref
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\menu-repo.dll
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\menu-repo.pdb
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\bin\Debug\netcoreapp3.1\menu-repo.exe
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\bin\Debug\netcoreapp3.1\menu-repo.deps.json
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\bin\Debug\netcoreapp3.1\menu-repo.runtimeconfig.json
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\bin\Debug\netcoreapp3.1\menu-repo.runtimeconfig.dev.json
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\bin\Debug\netcoreapp3.1\menu-repo.dll
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\bin\Debug\netcoreapp3.1\menu-repo.pdb
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\appetizers.baml
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\beers.baml
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\burgers_sandwiches.baml
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\CallStaff.baml
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\cocktails.baml
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\drinks_menu.baml
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\Food_Menu.baml
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\greens.baml
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\juices.baml
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\Menu_main.baml
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\MiscCustomization.baml
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\Recommend.baml
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\salads.baml
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\sides.baml
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\softDrinks.baml
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\spirits.baml
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\Tinder1.baml
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\Tinder2.baml
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\Tinder3.baml
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\Tinder4.baml
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\Tinder5.baml
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\TinderStart.baml
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\wines.baml
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\wings.baml
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\wraps.baml
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\menu-repo.g.resources
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\menu-repo.AssemblyInfoInputs.cache
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\menu-repo.AssemblyInfo.cs
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\TinderFinal.g.cs
+C:\Users\angel\Downloads\Final_Ahmed\Final_Ahmed\obj\Debug\netcoreapp3.1\TinderFinal.baml
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\bin\Debug\netcoreapp3.1\menu-repo.exe
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\bin\Debug\netcoreapp3.1\menu-repo.deps.json
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\bin\Debug\netcoreapp3.1\menu-repo.runtimeconfig.json
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\bin\Debug\netcoreapp3.1\menu-repo.runtimeconfig.dev.json
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\bin\Debug\netcoreapp3.1\menu-repo.dll
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\bin\Debug\netcoreapp3.1\menu-repo.pdb
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\menu-repo.csprojAssemblyReference.cache
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\Cart.baml
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\appetizers.g.cs
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\beers.g.cs
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\burgers_sandwiches.g.cs
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\CallStaff.g.cs
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\Cart.g.cs
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\cocktails.g.cs
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\drinks_menu.g.cs
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\Food_Menu.g.cs
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\greens.g.cs
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\juices.g.cs
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\Menu_main.g.cs
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\MiscCustomization.g.cs
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\Recommend.g.cs
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\salads.g.cs
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\sides.g.cs
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\softDrinks.g.cs
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\spirits.g.cs
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\Tinder1.g.cs
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\Tinder2.g.cs
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\Tinder3.g.cs
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\Tinder4.g.cs
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\Tinder5.g.cs
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\TinderFinal.g.cs
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\TinderStart.g.cs
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\wines.g.cs
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\wings.g.cs
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\wraps.g.cs
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\menu-repo_MarkupCompile.cache
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\menu-repo_MarkupCompile.lref
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\appetizers.baml
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\beers.baml
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\burgers_sandwiches.baml
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\CallStaff.baml
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\cocktails.baml
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\drinks_menu.baml
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\Food_Menu.baml
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\greens.baml
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\juices.baml
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\Menu_main.baml
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\MiscCustomization.baml
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\Recommend.baml
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\salads.baml
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\sides.baml
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\softDrinks.baml
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\spirits.baml
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\Tinder1.baml
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\Tinder2.baml
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\Tinder3.baml
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\Tinder4.baml
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\Tinder5.baml
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\TinderFinal.baml
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\TinderStart.baml
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\wines.baml
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\wings.baml
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\wraps.baml
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\menu-repo.g.resources
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\menu-repo.AssemblyInfoInputs.cache
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\menu-repo.AssemblyInfo.cs
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\menu-repo.dll
+C:\Users\Humble\Documents\CPSC 481\FInal Ez Menuz\EZMenuz\menu-repo\obj\Debug\netcoreapp3.1\menu-repo.pdb

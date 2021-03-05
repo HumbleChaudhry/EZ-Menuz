@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="appetizers.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="beers.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="burgers_sandwiches.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="CallStaff.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="cocktails.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="drinks_menu.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Food_Menu.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="greens.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="juices.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Menu_main.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="MiscCustomization.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="salads.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="sides.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="softDrinks.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="spirits.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Tinder1.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Tinder2.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Tinder3.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Tinder4.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Tinder5.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="TinderFinal.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="TinderStart.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="wines.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="wings.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="wraps.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="appetizers.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="beers.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="burgers_sandwiches.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="CallStaff.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="cocktails.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="drinks_menu.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Food_Menu.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="greens.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="juices.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Menu_main.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MiscCustomization.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="salads.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="sides.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="softDrinks.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="spirits.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Tinder1.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Tinder2.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Tinder3.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Tinder4.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Tinder5.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="TinderFinal.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="TinderStart.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="wines.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="wings.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="wraps.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,31 @@
+﻿<Page x:Class="menu_repo.TinderStart"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:menu_repo"
+      mc:Ignorable="d" 
+      d:DesignHeight="1024" d:DesignWidth="768"
+      Title="TinderStart">
+
+    <Grid Width="768" Height="1024">
+        <Frame x:Name="Recommend_Frame" NavigationUIVisibility="Hidden">
+            <Frame.Background>
+                <ImageBrush ImageSource="/gold&amp;Black.png"/>
+            </Frame.Background>
+        </Frame>
+        <Label x:Name="welcome_label" Content="Welcome To Our" HorizontalAlignment="Center" Height="60" Margin="0,60,0,0" VerticalAlignment="Top" Width="290" FontFamily="Consolas" FontSize="36" FontWeight="Bold" />
+        <Label x:Name="recommended_label" Content="Recommendation System" HorizontalAlignment="Center" Height="60" Margin="0,120,0,0" VerticalAlignment="Top" Width="430" FontFamily="Consolas" FontSize="36" FontWeight="Bold" />
+        <Label x:Name="budget_label" Content="Budget:" HorizontalAlignment="Left" Height="60" Margin="31,202,0,0" VerticalAlignment="Top" Width="146" FontFamily="Consolas" FontSize="36" />
+        <TextBox x:Name="budgettb" HorizontalAlignment="Left" Margin="188,208,0,0"  TextWrapping="Wrap" VerticalAlignment="Top" Width="196" Height="48" FontFamily="Consolas" FontSize="36" Background="#FFFFFEFF" BorderBrush="Black"/>
+        <Label x:Name="dietary_label" Content="Dietary Restrictions:" HorizontalAlignment="Left" Height="60" Margin="31,267,0,0" VerticalAlignment="Top" Width="424" FontFamily="Consolas" FontSize="36" />
+        <Button x:Name="Lactose" Content="Lactose Intolerant" HorizontalAlignment="Left" Height="74" Margin="31,332,0,0" VerticalAlignment="Top" Width="212" Background="White" BorderBrush="Black" FontFamily="Consolas" FontSize="20" Click="Lactose_Click"/>
+        <Button x:Name="Alcohol" Content="No Alcohol" HorizontalAlignment="Left" Height="74" Margin="286,332,0,0" VerticalAlignment="Top" Width="218" Background="White" BorderBrush="Black" FontFamily="Consolas" FontSize="20" Click="Alcohol_Click"/>
+        <Button x:Name="Pork" HorizontalAlignment="Left" Height="74" Margin="543,332,0,0" VerticalAlignment="Top" Width="185" Background="White" BorderBrush="Black" FontFamily="Consolas" FontSize="20" Content="No Pork" Click="Pork_Click"/>
+        <Button x:Name="Gluten" Content="No Gluten" HorizontalAlignment="Left" Height="74" VerticalAlignment="Top" Width="210" Background="White" BorderBrush="Black" FontFamily="Consolas" FontSize="20" Margin="31,424,0,0" Click="Gluten_Click"/>
+        <Button x:Name="Vegan" Content="Vegan" HorizontalAlignment="Left" Height="74" VerticalAlignment="Top" Width="214" Background="White" BorderBrush="Black" FontFamily="Consolas" FontSize="20" Margin="290,424,0,0" Click="Vegan_Click"/>
+        <Button x:Name="Beef" Content="No Beef" HorizontalAlignment="Left" Height="74" VerticalAlignment="Top" Width="185" Background="White" BorderBrush="Black" FontFamily="Consolas" FontSize="20" Margin="543,424,0,0" Click="Beef_Click"/>
+        <Button x:Name="InitiateTinder" Content="Start System!"  HorizontalAlignment="Left" Height="74" VerticalAlignment="Top" Width="185" Background="{x:Null}" BorderBrush="Black" FontFamily="Consolas" FontSize="20" Margin="543,910,0,0" Foreground="White" Click="InitiateTinder_Click"/>
+
+    </Grid>
+</Page>

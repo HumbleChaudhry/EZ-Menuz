@@ -1,0 +1,29 @@
+﻿<Window x:Class="menu_repo.Menu_main"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:menu_repo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="1024" Width="768">
+
+
+    <Grid x:Name="MainMenu" Visibility="Visible" Height="1024" Width="768" HorizontalAlignment="Left" Margin="0,0,0,-16">
+
+        <Frame x:Name="nMain" NavigationUIVisibility="Hidden">
+            <Frame.Background>
+                <ImageBrush ImageSource="/EzG&amp;B.png"/>
+            </Frame.Background>
+        </Frame>
+        <Button Content="Food Menu" Height="70" Margin="452,620,119,0" VerticalAlignment="Top" BorderBrush="#FF252424" Background="Gold" FontFamily="Arial" FontSize="20" Click="FoodsClick"/>
+        <Button Content="Drinks Menu" HorizontalAlignment="Left" Height="70" Margin="120,620,0,0" VerticalAlignment="Top" Width="197" BorderBrush="#FF252424" Background="Gold" FontFamily="Arial" FontSize="20" Click="DrinksClick"/>
+        <Button Content="Cart and Payment" Height="70" Margin="286,735,286,0" VerticalAlignment="Top" BorderBrush="#FF252424" Background="Gold" FontFamily="Arial" FontSize="20" Click="CartClick"/>
+        <Button Content="Call Staff" Height="70" Margin="286,850,286,0" VerticalAlignment="Top" BorderBrush="#FF252424" Background="Gold" FontFamily="Arial" FontSize="20" Click="CallStaff"/>
+
+
+
+
+    </Grid>
+
+
+</Window>

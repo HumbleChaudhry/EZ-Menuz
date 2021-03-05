@@ -1,0 +1,30 @@
+﻿<Window x:Class="menu_repo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:menu_repo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="1024" Width="768">
+
+
+    <Grid x:Name="MainMenu" Visibility="Visible" Height="1024" Width="768" HorizontalAlignment="Left" Margin="0,0,0,-16">
+
+        <Frame x:Name="nMain" NavigationUIVisibility="Hidden">
+            <Frame.Background>
+                <ImageBrush ImageSource="/EzG&amp;B.png"/>
+            </Frame.Background>
+        </Frame>
+
+
+        <Button x:Name="Start_Tinder" Content="Let Us Recommend For You" HorizontalAlignment="Center" Height="74" Margin="0,620,0,0" VerticalAlignment="Top" Width="414" BorderBrush="#FF252424" Background="Gold" FontFamily="Arial" FontSize="20" Click="OpenWindow" MouseEnter="Start_Tinder_MouseEnter" MouseLeave="Start_Tinder_MouseLeave"/>
+        <Button x:Name="Start_Menu" Content="Full Menu" HorizontalAlignment="Center" Height="74"   VerticalAlignment="Top" Width="202" BorderBrush="#FF252424" Background="Gold" FontFamily="Arial" FontSize="20" Margin="0,734,0,0" Click="OpenMenu"/>
+        <Button x:Name="Start_Staff" Content="Call Staff" HorizontalAlignment="Center" Height="74"  VerticalAlignment="Top" Width="202" BorderBrush="#FF252424" Background="Gold" FontFamily="Arial" FontSize="20" Margin="0,844,0,0"/>
+
+
+
+
+    </Grid>
+
+
+</Window>
