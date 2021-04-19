@@ -6,4 +6,4 @@ Simple project using Microsoft Visual Studio C# .
 
 The system models different techniques to approach a restaurant using basic C# user interfaces.
 
-This project was completed in a group while learning Human-Computer Interaction.
+This project was completed in a group while learning Human-Computer Interaction in the Computer Science Course CPSC 481 at University of Calgary.
